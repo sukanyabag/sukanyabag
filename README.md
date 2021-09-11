@@ -37,6 +37,9 @@
 <img align="middle" height="240" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukanyabag&hide=css&theme=nord" alt="sukanyabag" />
   
 
+<div>
+  <img align="left" alt="GIF" src="https://github.com/sukanyabag/sukanyabag/blob/main/images/github-user-contribution.svg"/>
+</div>
 
 ---
 ## As a part time technical-writer, I write a lot of tech blogs. Read my latest published blogs!📌
