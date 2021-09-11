@@ -38,7 +38,7 @@
   
 
 <div>
-  <img align="left" alt="GIF" src="https://github.com/sukanyabag/sukanyabag/blob/main/images/github-user-contribution.svg"/>
+  <img align="right" alt="GIF" src="https://github.com/sukanyabag/sukanyabag/blob/main/images/github-user-contribution.svg"/>
 </div>
 
 ---
