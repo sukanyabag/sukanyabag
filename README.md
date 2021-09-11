@@ -31,7 +31,7 @@
 ---
 
 <p align="left">
-<img src = "https://github-readme-stats.vercel.app/api?username=sukanyabag&&show_icons=true&title_color=131312&icon_color=1a34f9&text_color=2E3332&bg_color=3F000"/>
+<img src = "https://github-readme-stats.vercel.app/api?username=sukanyabag&&show_icons=true&title_color=131312&icon_color=1a34f9&text_color=2E3332&bg_color=00BFF"/>
 </p>
   
 <img align="middle" height="240" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukanyabag&hide=css&theme=nord" alt="sukanyabag" />
