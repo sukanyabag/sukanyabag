@@ -36,7 +36,7 @@
   
 <img align="middle" height="240" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukanyabag&hide=css&theme=nord" alt="sukanyabag" />
   
-DAMN! This little python eats away my contributions! Nvm 🤣....
+  <h2>DAMN! This little python eats away my contributions! Nvm 🤣....</h2>
 <div>
   <img align="right" alt="GIF" src="https://github.com/sukanyabag/sukanyabag/blob/main/images/github-user-contribution.svg"/>
 </div>
