@@ -34,12 +34,9 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=sukanyabag&&show_icons=true&title_color=131312&icon_color=1a34f9&text_color=2E3332&bg_color=FFD700"/>
 </p>
   
-<img align="right" height="240" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukanyabag&hide=css&theme=nord" alt="sukanyabag" />
+<img align="middle" height="240" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukanyabag&hide=css&theme=nord" alt="sukanyabag" />
   
 
-<div>
-  <img align="left" alt="GIF" src="https://github-contribution-grid-snake.svg"/>
-</div>
 
 ---
 ## As a part time technical-writer, I write a lot of tech blogs. Read my latest published blogs!📌
