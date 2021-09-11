@@ -19,7 +19,7 @@
               
 - 👩 Pronouns: She/Her
               
-- 🤔 I’m looking for help with Flutter and Java!
+- 🤔 I’m looking for help with Flutter, Dart and Java!
               
 - 🤣 Fun fact: I find AI-s more interesting than Humans.😁</p>
       
@@ -31,7 +31,7 @@
 ---
 
 <p align="left">
-<img src = "https://github-readme-stats.vercel.app/api?username=sukanyabag&&show_icons=true&title_color=131312&icon_color=1a34f9&text_color=2E3332&bg_color=FFD700"/>
+<img src = "https://github-readme-stats.vercel.app/api?username=sukanyabag&&show_icons=true&title_color=131312&icon_color=1a34f9&text_color=2E3332&bg_color=3F000"/>
 </p>
   
 <img align="middle" height="240" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukanyabag&hide=css&theme=nord" alt="sukanyabag" />
