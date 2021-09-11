@@ -42,6 +42,7 @@
 </div>
 
 ---
+  
 ## As a part time technical-writer, I write a lot of tech blogs. Read my latest published blogs!📌
 
 <!-- BLOG-POST-LIST:START -->
@@ -69,7 +70,7 @@
 <img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/>
 <img align="left" alt="pcharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />
 <img align="left" alt="javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
-<img align="left" alt="bigquery" width="30px" src="https://storage.googleapis.com/gweb-cloudblog-publish/images/bigquery2Blogoydo0.max-200x200.PNG"/>
+<img align="left" alt="dart" width="30px" src="https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G_400x400.jpg"/>
 <img align="left" alt="gcp" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-platform.svg"/>
 <img align="left" alt="aws" width="26px" src="https://essencesolusoft.com/assets/services/cloud/aws/aws-logo.svg"/>
 <img align="left" alt="kaggle" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png"/>
