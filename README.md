@@ -11,7 +11,7 @@
             <p class="card-text"> 
  🔭 I am currently working as a Machine Learning Engineering Intern @IIT Bombay.🤖
               
- - 🌱 I’m currently learning everything XD🤣
+ - 🌱 I’m currently learning about APIs and Flutter Developement.🤓
               
 - 👯  I’m looking to collaborate on various open-sourced Machine Learning, Deep Learning, and Natural Language Processing case studies and projects!
               
