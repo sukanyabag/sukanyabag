@@ -69,7 +69,6 @@
 <img align="left" alt="Java" width="26px" src="https://www.blockachain.gr/wp-content/uploads/2018/03/java-coffee-cup-logo.png"/>
 <img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/>
 <img align="left" alt="pcharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />
-<img align="left" alt="javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
 <img align="left" alt="dart" width="30px" src="https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G_400x400.jpg"/>
 <img align="left" alt="gcp" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-platform.svg"/>
 <img align="left" alt="flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png"/>
@@ -77,7 +76,6 @@
 <img align="left" alt="html" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
 <img align="left" alt="css" width="19px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/>
 <img align="left" alt="pgsql" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
-<img align="left" alt="huggingface" width="26px" src="https://ia802805.us.archive.org/15/items/github.com-huggingface-transformers_-_2020-02-12_22-24-48/cover.jpg" />
 <br />
 <br />
 
