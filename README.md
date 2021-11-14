@@ -21,7 +21,7 @@
               
 - 🤔 I’m looking for help with Flutter, Dart and Java!
               
-- 🤣 Fun fact: I find AI-s more interesting than Humans.😁</p>
+- 🤣 Fun fact: Robots can have citizenship! 😁</p>
       
     </div>
   </div>
