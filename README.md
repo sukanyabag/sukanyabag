@@ -35,6 +35,8 @@
 </p>
   
 <img align="middle" height="240" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukanyabag&hide=css&theme=chartreuse-dark" alt="sukanyabag" />
+  
+ [![trophy](https://github-profile-trophy.vercel.app/?username=sukanyabag&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
   <h2>DAMN! This little python🐍 eats away my contributions! Nvm 🤣....</h2>
 <div>
