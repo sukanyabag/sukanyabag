@@ -28,7 +28,7 @@
  </div>  
 </html>   
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=sukanyabag&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=sukanyabag&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 <p align="left">
