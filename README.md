@@ -49,11 +49,11 @@
 ## As a part time technical-writer, I write a lot of tech blogs. Read my latest published blogs!📌
 
 <!-- BLOG-POST-LIST:START -->
+- [The Complete XGBoost Therapy with Python](https://sukanyabag.medium.com/the-complete-xgboost-therapy-with-python-87c8cffcb71f)
 - [Automated Hyperparameter Tuning with Keras Tuner and TensorFlow 2.0](https://medium.com/analytics-vidhya/automated-hyperparameter-tuning-with-keras-tuner-and-tensorflow-2-0-31ec83f08a62)
 - [Text Summarization using BERT, GPT2, XLNet](https://medium.com/analytics-vidhya/text-summarization-using-bert-gpt2-xlnet-5ee80608e961)
 - [Activation Functions — All You Need To Know!](https://medium.com/analytics-vidhya/activation-functions-all-you-need-to-know-355a850d025e)
 - [Transformers — Let’s Dive Deeeep!](https://medium.com/analytics-vidhya/transformers-lets-dive-deeeep-7784bdb20807)
-- [Federated Learning – A Beginners Guide](https://www.analyticsvidhya.com/blog/2021/05/federated-learning-a-beginners-guide/)
 
 <!-- BLOG-POST-LIST:END -->
 
