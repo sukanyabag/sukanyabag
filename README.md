@@ -9,7 +9,7 @@
       <img align="right" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" class="card-img" width="440" height="350"  alt="" />
           <h3 class="card-title">A little about me 🤭!</h3>
             <p class="card-text"> 
- 🔭 I am currently working as a Machine Learning Engineering Intern @IIT Bombay.🤖
+ 🔭 I am currently working as a Jr. Data Scientist @Zummit Infolabs.🤖
               
  - 🌱 I’m currently learning and developing RESTful APIs and Flutter applications.🤓
               
