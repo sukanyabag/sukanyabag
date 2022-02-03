@@ -49,6 +49,8 @@
 ## As a part time technical-writer, I write a lot of tech blogs. Read my latest published blogs!📌
 
 <!-- BLOG-POST-LIST:START -->
+- [The Complete LSTM Tutorial With Implementation](https://www.analyticsvidhya.com/blog/2022/01/the-complete-lstm-tutorial-with-implementation/)
+-[Movie Recommendation Engine with NLP](https://www.analyticsvidhya.com/blog/2022/01/movie-recommendation-engine-with-nlp/)
 - [The Complete XGBoost Therapy with Python](https://sukanyabag.medium.com/the-complete-xgboost-therapy-with-python-87c8cffcb71f)
 - [Automated Hyperparameter Tuning with Keras Tuner and TensorFlow 2.0](https://medium.com/analytics-vidhya/automated-hyperparameter-tuning-with-keras-tuner-and-tensorflow-2-0-31ec83f08a62)
 - [Text Summarization using BERT, GPT2, XLNet](https://medium.com/analytics-vidhya/text-summarization-using-bert-gpt2-xlnet-5ee80608e961)
