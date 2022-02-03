@@ -69,7 +69,7 @@
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg"/>
 <img align="left" alt="TensorFlow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"/>
 <img align="left" alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"/>
-<img align="left" alt="Spyder" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"/>
+<img align="left" alt="Spyder" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/640px-Spyder_logo.svg.png"/>
 <img align="left" alt="Colaboratory" width="26px" src="https://miro.medium.com/max/512/0*ffbATxpDRokOBXzE.png"/>
 <img align="left" alt="Java" width="26px" src="https://www.blockachain.gr/wp-content/uploads/2018/03/java-coffee-cup-logo.png"/>
 <img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/>
