@@ -11,7 +11,7 @@
             <p class="card-text"> 
  🔭 I am currently working as a Jr. Data Scientist @Zummit Infolabs.🤖
               
- - 🌱 I’m currently learning and developing RESTful APIs and Flutter applications.🤓
+ - 🌱 I’m currently learning RESTful APIs and MERN stack.🤓
               
 - 👯  I’m looking to collaborate on various open-sourced Machine Learning, Deep Learning, and Natural Language Processing case studies and projects!
               
