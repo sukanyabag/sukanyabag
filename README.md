@@ -19,7 +19,7 @@
               
 - 👩 Pronouns: She/Her
               
-- 🤔 I’m looking for help with Flutter, Dart and Java!
+- 🤔 I’m looking for help with javascript!😒
               
 - 🤣 Fun fact: Robots can have citizenship! 😁</p>
       
