@@ -9,9 +9,9 @@
       <img align="right" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" class="card-img" width="440" height="350"  alt="" />
           <h3 class="card-title">A little about me 🤭!</h3>
             <p class="card-text"> 
- 🔭 I am currently working as a Machine Learning Engineering Intern @IIT Bombay.🤖
+ 🔭 I am currently working as a Jr. Data Scientist Intern @Zummit Infolabs.🤖
               
- - 🌱 I’m currently learning everything XD🤣
+ - 🌱 I’m currently learning MERN Stack and REST APIs!
               
 - 👯  I’m looking to collaborate on various open-sourced Machine Learning, Deep Learning, and Natural Language Processing case studies and projects!
               
@@ -19,7 +19,7 @@
               
 - 👩 Pronouns: She/Her
               
-- 🤔 I’m looking for help with Flutter and Java!
+- 🤔 I’m looking for help with Flutter and REACT JS!
               
 - 🤣 Fun fact: I find AI-s more interesting than Humans.😁</p>
       
