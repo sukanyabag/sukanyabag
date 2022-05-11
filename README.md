@@ -53,8 +53,10 @@
   
   <br>
   <br>
+  ---
+  
   <p align='center'>
-  <h3> ⚠️ Alert! This user is too much dependent on music! Hence, sprinkling some Spotify! 💚🎶🎸</h3>
+  <h2> ⚠️ Alert! This user is too much dependent on music! Hence, sprinkling some Spotify! 💚🎶🎸</h2>
   </p>
   <br>
   <p align="center">
