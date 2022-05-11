@@ -1,4 +1,4 @@
-<h1 align="center">Hi there!👀 >I'm  Sukanya.😁></h1><a target="_blank">
+<h1 align="center">Hi there!👀 I'm  Sukanya.😁 </h1><a target="_blank">
 
 <html>
   <div class="container">
