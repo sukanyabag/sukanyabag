@@ -1,4 +1,4 @@
-<h1>Hi there! <img src="https://pic.funnygifsbox.com/uploads/2016/01/15-8.gif" height="70px" width="60px">I'm  Sukanya. <img src="https://pic.funnygifsbox.com/uploads/2016/01/26-5.gif" height="80px" width="80px"></h1><a target="_blank">
+<h1 align="center">Hi there!👀 >I'm  Sukanya.😁></h1><a target="_blank">
 
 <html>
   <div class="container">
