@@ -9,19 +9,20 @@
       <img align="right" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" class="card-img" width="440" height="350"  alt="" />
           <h3 class="card-title">A little about me 🤭!</h3>
             <p class="card-text"> 
+              
  🔭 I am currently working as a Summer Research Intern at IIIt Hyderabad under LTRC (Language Technologies Research Centre).🤖
               
- - 🌱 I’m currently learning RESTful APIs and MERN stack.🤓
+ 🌱 I’m currently learning RESTful APIs and MERN stack.🤓
               
-- 👯  I’m looking to collaborate on various open-sourced Machine Learning, Deep Learning, and Natural Language Processing case studies and projects!
+ 👯  I’m looking to collaborate on various open-sourced Machine Learning, Deep Learning, and Natural Language Processing case studies and projects!
               
-- 💡 Ask me about Python, DSA, Data Science, ML/AI, APIs!
+ 💡 Ask me about Python, DSA, Data Science, ML/AI, APIs!
               
-- 👩 Pronouns: She/Her
+ 🙎🏼‍♀ Pronouns: She/Her
               
-- 🤔 I’m looking for help with javascript!😒
+ 🤔 I’m looking for help with javascript!😒
               
-- 🤣 Fun fact: Robots can have citizenship! 😁</p>
+ 🤣 Fun fact: Robots can have citizenship! 😁</p>
       
      
 
