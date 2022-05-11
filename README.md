@@ -53,7 +53,7 @@
   
   <br>
   <br>
-  ---
+  
   
   <p align='center'>
   <h2> ⚠️ Alert! This user is too much dependent on music! Hence, sprinkling some Spotify! 💚🎶🎸</h2>
