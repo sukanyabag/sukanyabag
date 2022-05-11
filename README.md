@@ -30,7 +30,7 @@
 </html>   
   
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=sukanyabag&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+  <a href="https://github.com/sukanyabag"><img width="35%" align="right" alt="sukanyabag" src="https://github-profile-trophy.vercel.app/?username=sukanyabag&theme=juicyfresh&no-frame=true&no-bg=true&title=Commit&row=1&column=1" /></a>
 ---
 
 <p align="center">
