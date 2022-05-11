@@ -9,7 +9,7 @@
       <img align="right" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" class="card-img" width="440" height="350"  alt="" />
           <h3 class="card-title">A little about me 🤭!</h3>
             <p class="card-text"> 
- 🔭 I am currently working as a Jr. Data Scientist @Zummit Infolabs.🤖
+ 🔭 I am currently working as a Summer Research Intern at IIIt Hyderabad under LTRC (Language Technologies Research Centre).🤖
               
  - 🌱 I’m currently learning RESTful APIs and MERN stack.🤓
               
@@ -28,6 +28,8 @@
   </div>
  </div>  
 </html>   
+  
+  <script src="https://embed.github.com/view/3d/sukanyabag/skyline/master/sukanyabag-2021.stl"></script>
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=sukanyabag&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 ---
