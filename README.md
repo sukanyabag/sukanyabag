@@ -37,7 +37,13 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=sukanyabag&&show_icons=true&title_color=131312&icon_color=1a34f9&text_color=2E3332&bg_color=FF5733"/>
 </p>
   
-<img align="middle" height="240" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukanyabag&hide=css&theme=chartreuse-dark" alt="sukanyabag" />
+<p align="center">
+  <img height="150" width="150" src="assets/WEBP/LWing.webp">
+  <img align="center" src="https://streak-stats-github.herokuapp.com?user=sukanyabag&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FFD700&currStreakLabel=FFD700&ring=FFD700"/>
+  <img height="150" width="150" src="assets/WEBP/RWing.webp">
+</p>
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=sukanyabag&bg_color=000000&color=ffffff&line=ffd700&point=ffffff&area=true&hide_border=true)
   
  
 
