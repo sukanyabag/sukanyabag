@@ -48,8 +48,10 @@
   <h2>DAMN! This little Python🐍 eats away my Contributions! Nvm 🤣....</h2>
 <div>
   <img align="right" alt="GIF" src="https://github.com/sukanyabag/sukanyabag/blob/main/images/github-user-contribution.svg"/>
-</div>
+   <br/>
   <br/>
+</div>
+ 
   <p align='center'>
   <h2> ⚠️ Alert! This user is too much dependent on music! Hence, sprinkling some Spotify! 💚🎶🎸</h2>
   </p>
