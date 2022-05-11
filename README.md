@@ -78,7 +78,7 @@
 
 ➡️ [more blog posts...](https://sukanyabag.medium.com/)
   
- ##🔥🔥 Blogs published as a part of `Analytics Vidhya Blogathons` are [here](https://www.analyticsvidhya.com/blog/author/sukanya3/)! ❤️‍🔥
+ ## 🔥🔥 Blogs published as a part of `Analytics Vidhya Blogathons` are [here](https://www.analyticsvidhya.com/blog/author/sukanya3/)! ❤️‍🔥
 
 ---
 
