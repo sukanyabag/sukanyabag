@@ -10,19 +10,19 @@
           <h3 class="card-title">A little about me 🤭!</h3>
             <p class="card-text"> 
               
- 🔭 I am currently working as a Summer Research Intern at IIIt Hyderabad under LTRC (Language Technologies Research Centre).🤖
+ 🔭 I am currently working as a `Summer Research Intern` at `IIIT Hyderabad` under `LTRC (Language Technologies Research Centre)`.🤖
               
- 🌱 I’m currently learning RESTful APIs and MERN stack.🤓
+ 🌱 I’m currently learning `RESTful APIs` and `MERN stack`.🤓
               
- 👯  I’m looking to collaborate on various open-sourced Machine Learning, Deep Learning, and Natural Language Processing case studies and projects!
+ 👯  I’m looking to collaborate on various open-sourced `Machine Learning`, `Deep Learning`, and `Natural Language Processing` case studies and projects!
               
- 💡 Ask me about Python, DSA, Data Science, ML/AI, APIs!
+ 💡 Ask me about `Python`, `DSA`, `Data Science`, `AI/ML`, `API`s!
               
- 🙎🏼‍♀ Pronouns: She/Her
+ 🙎🏼‍♀ Pronouns: `She/Her`
               
- 🤔 I’m looking for help with javascript!😒
+ 🤔 I’m looking for help with `Javascript` and `ReactJS`!😒
               
- 🤣 Fun fact: Robots can have citizenship! 😁</p>
+ 🤣 Fun fact: `Robots` can have `citizenship`! 😁</p>
       
     
   </div>
@@ -63,7 +63,7 @@
 </p>
 
   
-## As a part time technical-writer, I write a lot of tech blogs. Read my latest published blogs!📌
+## As a part time `technical-writer`, I write a lot of tech blogs. Read my latest published blogs!📌
 
 <!-- BLOG-POST-LIST:START -->
 - [The Complete LSTM Tutorial With Implementation](https://www.analyticsvidhya.com/blog/2022/01/the-complete-lstm-tutorial-with-implementation/)
@@ -78,11 +78,11 @@
 
 ➡️ [more blog posts...](https://sukanyabag.medium.com/)
   
-  Blogs published as a part of Analytics Vidhya Blogathons are [here](https://www.analyticsvidhya.com/blog/author/sukanya3/)!😁
+  Blogs published as a part of `Analytics Vidhya Blogathons` are [here](https://www.analyticsvidhya.com/blog/author/sukanya3/)!😁
 
 ---
 
-## ⚙ Languages, Tools and Platforms I 💛 to work with:
+## ⚙ `Languages`, `Tools` and `Platforms` I 💛 to work with:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg"/>
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg"/>
