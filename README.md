@@ -67,7 +67,7 @@
   </p>
   <br>
   <p align="center">
-    <img width="90%" src="https://spotify-recently-played-readme.vercel.app/api?user=31pkckxfp4l4hgkvqloecrwrug7i&count=8"/>
+    <img width="50%" src="https://spotify-recently-played-readme.vercel.app/api?user=31pkckxfp4l4hgkvqloecrwrug7i&count=8"/>
   </p>
   <br/>
 </p>
