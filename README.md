@@ -48,6 +48,14 @@
 </div>
 
 ---
+  <details align='center'>
+  <summary>I can barely code without music!<h3> Hence, sprinkling some Spotify! 💚🎶🎸</h3> </summary>
+  <br>
+  <p align="center">
+    <img width="40%" src="https://spotify-recently-played-readme.vercel.app/api?user=31pkckxfp4l4hgkvqloecrwrug7i"/>
+  </p>
+</details>
+
   
 ## As a part time technical-writer, I write a lot of tech blogs. Read my latest published blogs!📌
 
