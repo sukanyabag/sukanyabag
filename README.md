@@ -33,7 +33,7 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=sukanyabag&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
-<p align="left">
+<p align="center">
 <img src = "https://github-readme-stats.vercel.app/api?username=sukanyabag&&show_icons=true&title_color=131312&icon_color=1a34f9&text_color=2E3332&bg_color=FF5733"/>
 </p>
   
