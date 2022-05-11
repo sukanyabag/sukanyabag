@@ -50,7 +50,7 @@
 ---
   <br>
   <p align='center'>
-  <h3> I can barely code without music! Hence, sprinkling some Spotify! 💚🎶🎸</h3>
+  <h3> ⚠️ Alert! This user is too much dependent on music! Hence, sprinkling some Spotify! 💚🎶🎸</h3>
   </p>
   <br>
   <p align="center">
