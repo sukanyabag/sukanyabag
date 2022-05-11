@@ -50,7 +50,6 @@
   <img align="right" alt="GIF" src="https://github.com/sukanyabag/sukanyabag/blob/main/images/github-user-contribution.svg"/>
 </div>
   <br/>
-  <br/>
   <p align='center'>
   <h2> ⚠️ Alert! This user is too much dependent on music! Hence, sprinkling some Spotify! 💚🎶🎸</h2>
   </p>
