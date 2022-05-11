@@ -24,9 +24,7 @@
               
  🤣 Fun fact: Robots can have citizenship! 😁</p>
       
-     
-
-    </div>
+    
   </div>
  </div>  
 </html>   
