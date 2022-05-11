@@ -41,9 +41,6 @@
   <img align="center" src="https://streak-stats-github.herokuapp.com?user=sukanyabag&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FFD700&currStreakLabel=FFD700&ring=FFD700"/>
   <br/>
   <br/>
-  <br/>
-  <br/>
-  <br/>
 </p>
 
   <!---
