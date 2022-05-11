@@ -23,7 +23,7 @@
               
 - 🤣 Fun fact: Robots can have citizenship! 😁</p>
       
-      <script src="https://embed.github.com/view/3d/sukanyabag/sukanyabag/main/github-contrib-3D/sukanyabag-2021.stl"></script>
+     
 
     </div>
   </div>
