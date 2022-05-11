@@ -48,8 +48,10 @@
 </div>
 
 ---
+  <br>
   <p align='center'>
   <h3> I can barely code without music! Hence, sprinkling some Spotify! 💚🎶🎸</h3>
+  </p>
   <br>
   <p align="center">
     <img width="40%" src="https://spotify-recently-played-readme.vercel.app/api?user=31pkckxfp4l4hgkvqloecrwrug7i&count=8"/>
