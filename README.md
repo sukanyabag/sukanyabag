@@ -70,7 +70,6 @@
     <img width="40%" src="https://spotify-recently-played-readme.vercel.app/api?user=31pkckxfp4l4hgkvqloecrwrug7i&count=8"/>
   </p>
   <br/>
-  <br/>
 </p>
 
   
