@@ -10,9 +10,9 @@
           <h3 class="card-title">A little about me 🤭!</h3>
             <p class="card-text"> 
               
- 🔭 I am currently working as a `Summer Research Intern` at `IIIT Hyderabad` under `LTRC (Language Technologies Research Centre)`.🤖
+ 🔭 I am currently working as a `Summer Research Intern` at `IIIT Hyderabad` under `LTRC (Language Technologies Research Centre)`.
               
- 🌱 I’m currently learning `RESTful APIs` and `MERN stack`.🤓
+ 🌱 I’m currently learning `RESTful APIs` and `MERN stack`.
               
  👯  I’m looking to collaborate on various open-sourced `Machine Learning`, `Deep Learning`, and `Natural Language Processing` case studies and projects!
               
@@ -20,9 +20,9 @@
               
  🙎🏼‍♀ Pronouns: `She/Her`
               
- 🤔 I’m looking for help with `Javascript` and `ReactJS`!😒
+ 🤔 I’m looking for help with `Javascript` and `ReactJS`!
               
- 🤣 Fun fact: `Robots` can have `citizenship`! 😁</p>
+ 🤣 Fun fact: `Robots` can have `citizenship`! </p>
       
     
   </div>
