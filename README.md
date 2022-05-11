@@ -38,14 +38,12 @@
 </p>
   
 <p align="center">
-  <img height="150" width="150" src="assets/WEBP/LWing.webp">
   <img align="center" src="https://streak-stats-github.herokuapp.com?user=sukanyabag&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FFD700&currStreakLabel=FFD700&ring=FFD700"/>
-  <img height="150" width="150" src="assets/WEBP/RWing.webp">
 </p>
 
+  <!---
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=sukanyabag&bg_color=000000&color=ffffff&line=ffd700&point=ffffff&area=true&hide_border=true)
-  
- 
+-->
 
   <h2>DAMN! This little python🐍 eats away my contributions! Nvm 🤣....</h2>
 <div>
