@@ -45,7 +45,7 @@
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=sukanyabag&bg_color=000000&color=ffffff&line=ffd700&point=ffffff&area=true&hide_border=true)
 -->
 
-  <h2>DAMN! This little python🐍 eats away my contributions! Nvm 🤣....</h2>
+  <h2>DAMN! This little `Python🐍` eats away my `Contributions!` Nvm 🤣....</h2>
 <div>
   <img align="right" alt="GIF" src="https://github.com/sukanyabag/sukanyabag/blob/main/images/github-user-contribution.svg"/>
 </div>
@@ -54,7 +54,7 @@
   <br>
   <br>
   <p align='center'>
-  <h3> ⚠️ Alert! This user is too much dependent on music! Hence, sprinkling some Spotify! 💚🎶🎸</h3>
+  <h3> ⚠️ `Alert!` This user is too much dependent on music! Hence, `sprinkling some Spotify`! 💚🎶🎸</h3>
   </p>
   <br>
   <p align="center">
@@ -105,7 +105,7 @@
 <br />
 
 
-## Connect with me and Grab a Coffee! 🙋‍♀️🥤             
+## `Connect` with me and `Grab a Coffee`! 🙋‍♀️🥤             
 [<img align="left" alt="sukanyabagig" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
 [<img align="left" alt="sukanyabagln" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
 [<img align="left" alt="sukanyabaglc" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />][leetcode]
