@@ -62,16 +62,6 @@
   <br/>
 </div>
  
-  <p align='center'>
-  <h2> ⚠️ Alert! This user is too much dependent on music! Hence, sprinkling some Spotify! 💚🎶🎸</h2>
-  </p>
-  <br>
-  <p align="center">
-    <img width="40%" src="https://spotify-recently-played-readme.vercel.app/api?user=31pkckxfp4l4hgkvqloecrwrug7i&count=8"/>
-  </p>
-  <br/>
-</p>
-
   
 ## As a part time `technical-writer`, I write a lot of tech blogs. Read my latest published blogs!📌
 
