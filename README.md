@@ -6,7 +6,6 @@
     <div class="col">
     </div>
     <div class="col">
-      <img align="right" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" class="card-img" width="440" height="350"  alt="" />
           <h3 class="card-title">A little about me 🤭!</h3>
             <p class="card-text"> 
               
