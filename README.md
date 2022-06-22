@@ -81,7 +81,7 @@
 
 ---
 
-## ⚙ `Languages`, `Tools` and `Platforms` I 💛 to work with:
+## ⚙ `Languages`, `Tools` and `Frameworks` I 💛 to work with:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg"/>
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg"/>
