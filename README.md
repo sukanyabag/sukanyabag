@@ -15,7 +15,7 @@
               
  👯  I’m looking to collaborate on various open-sourced `Machine Learning`, `Deep Learning`, and `Natural Language Processing` case studies and projects!
               
- 💡 Ask me about `Python`, `DSA`, `Data Science`, `AI/ML`, `API`s!
+ 💡 Ask me about `Python`, `DSA`, `Data Science`, `AI/ML`, `REST API`s!
               
  🙎🏼‍♀ Pronouns: `She/Her`
               
