@@ -11,7 +11,7 @@
               
  🔭 I am currently working as a `Summer Research Intern` at `IIIT Hyderabad` under `LTRC (Language Technologies Research Centre)`.
               
- 🌱 I’m currently learning `RESTful APIs` and `MERN stack`.
+ 🌱 I’m currently grinding Leetcode to strengthen my DSA and programming skills.
               
  👯  I’m looking to collaborate on various open-sourced `Machine Learning`, `Deep Learning`, and `Natural Language Processing` case studies and projects!
               
