@@ -102,7 +102,7 @@
 ## `Connect` with me and `Grab a Coffee`! 🙋‍♀️🥤             
 [<img align="left" alt="sukanyabagig" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
 [<img align="left" alt="sukanyabagln" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
-[<img align="left" alt="sukanyabagblog" width="22px" src="https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" />][medium]
+[<img align="left" alt="sukanyabagblog" width="22px" src="https://seeklogo.com/images/M/medium-logo-F0ACFCCD58-seeklogo.com.png" />][medium]
 [<img align="left" alt="sukanyabagfb" width="22px" src="https://iconape.com/wp-content/png_logo_vector/facebook-f-logo-2019.png" />][facebook]
 
 
