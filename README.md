@@ -13,7 +13,7 @@
               
  🌱 I’m currently grinding Leetcode to strengthen my DSA and programming skills.
               
- 👯  I’m looking to collaborate on developing awesome stuffs with `Machine Learning & Deep Learning`, `REST APIs`, and `Web Development`. 
+ 👯  I’m looking to collaborate on developing awesome stuffs with `Machine/Deep Learning`, `REST APIs`, and `Web Development`. 
               
  💡 Ask me about `Python`, `Java`, `Data Science`, `Machine/Deep Learning` and `REST API`s!
               
@@ -60,6 +60,9 @@
 ## As a part time `technical-writer`, I write a lot of tech blogs. Read my latest published blogs!📌
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 15 Important Data Science Interview Questions](https://www.analyticsvidhya.com/blog/2022/06/top-15-important-data-science-interview-questions/)
+- [A Comprehensive Guide to Time Series Analysis and Forecasting - Amongst top 10 Articles at Blogathon-20](https://www.analyticsvidhya.com/blog/2022/05/a-comprehensive-guide-to-time-series-analysis-and-forecasting/) 
+- [Hands-On Named Entity Recognition with SpaCy](https://www.analyticsvidhya.com/blog/2022/03/hands-on-named-entity-recognition-with-spacy/)
 - [The Complete LSTM Tutorial With Implementation](https://www.analyticsvidhya.com/blog/2022/01/the-complete-lstm-tutorial-with-implementation/)
 - [Movie Recommendation Engine with NLP](https://www.analyticsvidhya.com/blog/2022/01/movie-recommendation-engine-with-nlp/)
 - [The Complete XGBoost Therapy with Python](https://sukanyabag.medium.com/the-complete-xgboost-therapy-with-python-87c8cffcb71f)
