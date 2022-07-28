@@ -57,11 +57,11 @@
 </div>
  
   
-## As a part time `technical-writer`, I write a lot of tech blogs. Read my latest published blogs!📌
+## As a `technical-writer` by passion, I write a lot of tech blogs. Read my latest published blogs!
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 15 Important Data Science Interview Questions](https://www.analyticsvidhya.com/blog/2022/06/top-15-important-data-science-interview-questions/)
-- [A Comprehensive Guide to Time Series Analysis and Forecasting - Amongst top 10 Articles at Blogathon-20](https://www.analyticsvidhya.com/blog/2022/05/a-comprehensive-guide-to-time-series-analysis-and-forecasting/) 
+- 📌[Top 15 Important Data Science Interview Questions](https://www.analyticsvidhya.com/blog/2022/06/top-15-important-data-science-interview-questions/)
+- 📌[A Comprehensive Guide to Time Series Analysis and Forecasting - Amongst top 10 Articles at Blogathon-20](https://www.analyticsvidhya.com/blog/2022/05/a-comprehensive-guide-to-time-series-analysis-and-forecasting/) 
 - [Hands-On Named Entity Recognition with SpaCy](https://www.analyticsvidhya.com/blog/2022/03/hands-on-named-entity-recognition-with-spacy/)
 - [The Complete LSTM Tutorial With Implementation](https://www.analyticsvidhya.com/blog/2022/01/the-complete-lstm-tutorial-with-implementation/)
 - [Movie Recommendation Engine with NLP](https://www.analyticsvidhya.com/blog/2022/01/movie-recommendation-engine-with-nlp/)
