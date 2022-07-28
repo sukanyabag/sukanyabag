@@ -13,9 +13,9 @@
               
  🌱 I’m currently grinding Leetcode to strengthen my DSA and programming skills.
               
- 👯  I’m looking to collaborate on various open-sourced `Machine Learning`, `Deep Learning`, and `Natural Language Processing` case studies and projects!
+ 👯  I’m looking to collaborate on developing awesome stuffs with `Machine Learning & Deep Learning`, `REST APIs`, and `Web Development`. 
               
- 💡 Ask me about `Python`, `DSA`, `Data Science`, `AI/ML`, `REST API`s!
+ 💡 Ask me about `Python`, `Java`, `Data Science`, `Machine/Deep Learning` and `REST API`s!
               
  🙎🏼‍♀ Pronouns: `She/Her`
               
