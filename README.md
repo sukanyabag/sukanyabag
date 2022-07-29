@@ -11,7 +11,7 @@
               
  🔭 I recently worked as a `Summer Research Intern` at `IIIT Hyderabad` under `LTRC (Language Technologies Research Centre)`.
               
- 🌱 I’m currently grinding Leetcode to strengthen my DSA and programming skills.
+ 🌱 I’m currently grinding LeetCode to strengthen my DSA and programming skills.
               
  👯  I’m looking to collaborate on developing awesome stuffs with `Machine/Deep Learning`, `REST APIs`, and `Web Development`. 
               
