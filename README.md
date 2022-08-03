@@ -57,7 +57,7 @@
 </div>
  
   
-## As a `technical-writer` by passion, I write a lot of tech blogs on Data Science and ML/AI. Read my latest published blogs!👩🏼‍💻
+## As a `technical-writer` by passion, I write a lot of tech blogs on `Data Science` and `ML/AI`. Read my latest published blogs!👩🏼‍💻
 
 <!-- BLOG-POST-LIST:START -->
 - 📌[Top 15 Important Data Science Interview Questions](https://www.analyticsvidhya.com/blog/2022/06/top-15-important-data-science-interview-questions/)
