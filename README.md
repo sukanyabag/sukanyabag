@@ -9,7 +9,7 @@
           <h3 class="card-title">A little about me 🤭!</h3>
             <p class="card-text"> 
               
- 🔭 I recently worked as a `Summer Research Intern` at `IIIT Hyderabad` under `LTRC (Language Technologies Research Centre)`.
+ 🔭 I recently worked as a `Summer Research Intern` at `IIIT Hyderabad`'s `LTRC (Language Technologies Research Centre)`.
               
  🌱 I’m currently grinding LeetCode to strengthen my DSA and programming skills.
               
