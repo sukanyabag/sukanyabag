@@ -21,7 +21,7 @@
               
  🤔 I’m looking for help with `Javascript` and `ReactJS`!
               
- 🤣 Fun fact: `Robots` can have `citizenship`! </p>
+ 🤣 Fun fact: `hippopotomonstrosesquippedaliophobia` is fear of `long words`! </p>
       
     
   </div>
