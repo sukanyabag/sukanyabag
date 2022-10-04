@@ -29,17 +29,13 @@
 </html>   
   
   
-<!--   <a href="https://github.com/sukanyabag"><img width="35%" align="right" alt="sukanyabag" src="https://github-profile-trophy.vercel.app/?username=sukanyabag&theme=juicyfresh&no-frame=true&no-bg=true&title=Commit&row=1&column=1" /></a>
+<a href="https://github.com/sukanyabag"><img width="35%" align="right" alt="sukanyabag" src="https://github-profile-trophy.vercel.app/?username=sukanyabag&theme=juicyfresh&no-frame=true&no-bg=true&title=Commit&row=1&column=1" /></a>
 ---
 
 <p align="center">
-<img src = "https://github-readme-stats.vercel.app/api?username=sukanyabag)](https://github.com/sukanyabag/github-readme-stats"/>
+<img src = "https://github-readme-stats.vercel.app/api?username=sukanyabag&&show_icons=true&title_color=ffffff&icon_color=ff8454&text_color=daf7dc&bg_color=6054ff">
 </p> -->
   
-
-  <!---
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=sukanyabag&bg_color=000000&color=ffffff&line=ffd700&point=ffffff&area=true&hide_border=true)
--->
 
   <h2>DAMN! This little Python🐍 eats away my Contributions! Nvm 🤣....</h2>
 <div>
