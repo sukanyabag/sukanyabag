@@ -34,7 +34,7 @@
 
 <p align="center">
 <img src = "https://github-readme-stats.vercel.app/api?username=sukanyabag&&show_icons=true&title_color=ffffff&icon_color=ff8454&text_color=daf7dc&bg_color=6054ff">
-</p> -->
+</p>
   
 
   <h2>DAMN! This little Python🐍 eats away my Contributions! Nvm 🤣....</h2>
