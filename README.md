@@ -29,12 +29,12 @@
 </html>   
   
   
-  <a href="https://github.com/sukanyabag"><img width="35%" align="right" alt="sukanyabag" src="https://github-profile-trophy.vercel.app/?username=sukanyabag&theme=juicyfresh&no-frame=true&no-bg=true&title=Commit&row=1&column=1" /></a>
+<!--   <a href="https://github.com/sukanyabag"><img width="35%" align="right" alt="sukanyabag" src="https://github-profile-trophy.vercel.app/?username=sukanyabag&theme=juicyfresh&no-frame=true&no-bg=true&title=Commit&row=1&column=1" /></a>
 ---
 
 <p align="center">
 <img src = "https://github-readme-stats.vercel.app/api?username=sukanyabag)](https://github.com/sukanyabag/github-readme-stats"/>
-</p>
+</p> -->
   
 
   <!---
