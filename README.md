@@ -59,6 +59,8 @@
 - 📌[My Experience Interviewing with Google!](https://medium.com/p/cd41f120f0fd)
 - 📌[Top 15 Important Data Science Interview Questions](https://www.analyticsvidhya.com/blog/2022/06/top-15-important-data-science-interview-questions/)
 - 📌[A Comprehensive Guide to Time Series Analysis and Forecasting - Amongst top 10 Articles at Blogathon-20](https://www.analyticsvidhya.com/blog/2022/05/a-comprehensive-guide-to-time-series-analysis-and-forecasting/) 
+- [Demystifying DCNNs — the AlexNet](https://medium.com/mlearning-ai/demystifying-dcnns-the-alexnet-6081eccb8f57)
+- [Out of Bag (OOB) Evaluation in Random Forests](https://python.plainenglish.io/out-of-bag-oob-evaluation-in-random-forests-9da315b9a1d1)
 - [Hands-On Named Entity Recognition with SpaCy](https://www.analyticsvidhya.com/blog/2022/03/hands-on-named-entity-recognition-with-spacy/)
 - [The Complete LSTM Tutorial With Implementation](https://www.analyticsvidhya.com/blog/2022/01/the-complete-lstm-tutorial-with-implementation/)
 - [Movie Recommendation Engine with NLP](https://www.analyticsvidhya.com/blog/2022/01/movie-recommendation-engine-with-nlp/)
