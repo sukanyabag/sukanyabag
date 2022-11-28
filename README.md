@@ -33,7 +33,7 @@
 ---
 
 <p align="center">
-<img src = "https://github-readme-stats.vercel.app/api?username=sukanyabag&&show_icons=true&title_color=ffffff&icon_color=ff8454&text_color=daf7dc&bg_color=6054ff">
+![Sukanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sukanyabag&show_icons=true&theme=highcontrast)
 </p>
   
 
