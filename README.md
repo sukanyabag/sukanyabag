@@ -32,11 +32,9 @@
 <a href="https://github.com/sukanyabag"><img width="35%" align="right" alt="sukanyabag" src="https://github-profile-trophy.vercel.app/?username=sukanyabag&theme=juicyfresh&no-frame=true&no-bg=true&title=Commit&row=1&column=1" /></a>
 ---
 
-<p align="center">
-[Sukanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sukanyabag&show_icons=true&theme=highcontrast)
-</p>
-  
+![Sukanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sukanyabag&show_icons=true&theme=highcontrast)
 
+ 
   <h2>DAMN! This little Python🐍 eats away my Contributions! Nvm 🤣....</h2>
 <div>
   <img align="right" alt="GIF" src="https://github.com/sukanyabag/sukanyabag/blob/main/images/github-user-contribution.svg"/>
