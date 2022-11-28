@@ -33,7 +33,7 @@
 ---
 
 <p align="center">
-![Sukanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sukanyabag&show_icons=true&theme=highcontrast)
+[Sukanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sukanyabag&show_icons=true&theme=highcontrast)
 </p>
   
 
