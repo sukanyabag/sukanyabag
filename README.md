@@ -32,7 +32,7 @@
 <a href="https://github.com/sukanyabag"><img width="35%" align="right" alt="sukanyabag" src="https://github-profile-trophy.vercel.app/?username=sukanyabag&theme=juicyfresh&no-frame=true&no-bg=true&title=Commit&row=1&column=1" /></a>
 ---
 
-[![Sukanya's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sukanyabag?theme=slateorange)](https://git.io/awesome-stats-card)
+[![Sukanya's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sukanyabag?cardType=octocat&theme=monokai)](https://git.io/awesome-stats-card)
   
 <div>
   <img align="right" alt="GIF" src="https://github.com/sukanyabag/sukanyabag/blob/main/images/github-user-contribution.svg"/>
