@@ -34,7 +34,6 @@
 
 [![Sukanya's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sukanyabag?theme=slateorange)](https://git.io/awesome-stats-card)
   
-  <h2>DAMN! This little Python🐍 eats away my Contributions! Nvm 🤣....</h2>
 <div>
   <img align="right" alt="GIF" src="https://github.com/sukanyabag/sukanyabag/blob/main/images/github-user-contribution.svg"/>
    <br/>
