@@ -32,7 +32,7 @@
 <a href="https://github.com/sukanyabag"><img width="35%" align="right" alt="sukanyabag" src="https://github-profile-trophy.vercel.app/?username=sukanyabag&theme=juicyfresh&no-frame=true&no-bg=true&title=Commit&row=1&column=1" /></a>
 ---
 
-![Sukanya's GitHub Statistics](https://raw.githubusercontent.com/sukanyabag/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+[![Sukanya's GitHub Streak](https://awesome-github-stats.azurewebsites.net/user-stats/sukanyabag&theme=dark)](https://git.io/awesome-stats-card)
  
   <h2>DAMN! This little Python🐍 eats away my Contributions! Nvm 🤣....</h2>
 <div>
