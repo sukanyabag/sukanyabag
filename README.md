@@ -9,9 +9,9 @@
           <h3 class="card-title">A little about me 🤭!</h3>
             <p class="card-text"> 
               
- 🔭 I recently worked as a `Summer Research Intern` at `IIIT Hyderabad`'s `LTRC (Language Technologies Research Centre)`.
+ 🌱 I am currently working as a `Data Science (AI/ML) Intern` at `Genpact LLC`.4
               
- 🌱 I will be joining `Genpact LLC` as a `Data Scientist (Intern -> Full Time)` in Spring 2023.
+ 🔭 I recently worked as a `Summer Research Intern` at `IIIT Hyderabad`'s `LTRC (Language Technologies Research Centre)`.
               
  👯  I’m looking to collaborate on developing awesome stuffs with `Machine/Deep Learning`, `REST APIs`, and `Web Development`. 
               
