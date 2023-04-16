@@ -19,9 +19,9 @@
               
  🙎🏼‍♀ Pronouns: `She/Her`
               
- 🤔 I’m looking for help with `Javascript` and `ReactJS`!
+ 📈 Recent Achievement: Officially `Kaggle Kernels Expert`!!! 😎
               
- 🤣 Fun fact: `hippopotomonstrosesquippedaliophobia` is fear of `long words`! </p>
+ 🤣 Fun fact: `ChatGPT` does not know `programming`! </p>
       
     
   </div>
@@ -79,9 +79,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,postgres,flask,gcp,git,vscode,postman,stackoverflow)](https://skillicons.dev)
 
-<br />
-<br />
-
 
 ## Let's `Connect` with each other! 🙋‍♀️🥤             
 [<img align="left" alt="sukanyabagig" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
@@ -89,8 +86,6 @@
 [<img align="left" alt="sukanyabagblog" width="22px" src="https://seeklogo.com/images/M/medium-logo-F0ACFCCD58-seeklogo.com.png" />][medium]
 [<img align="left" alt="sukanyabagfb" width="22px" src="https://iconape.com/wp-content/png_logo_vector/facebook-f-logo-2019.png" />][facebook]
 [<img align="left" alt="sukanyakaggle" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" />][kaggle]
-
-
 
 [instagram]: https://www.instagram.com/s.u.k.a.n.y.a.__/
 [linkedin]: https://www.linkedin.com/in/sukannya/
