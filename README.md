@@ -103,7 +103,7 @@
 [<img align="left" alt="sukanyabagln" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
 [<img align="left" alt="sukanyabagblog" width="22px" src="https://seeklogo.com/images/M/medium-logo-F0ACFCCD58-seeklogo.com.png" />][medium]
 [<img align="left" alt="sukanyabagfb" width="22px" src="https://iconape.com/wp-content/png_logo_vector/facebook-f-logo-2019.png" />][facebook]
-[<img align="left" alt="sukanyakaggle" width="22px" src="  https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" />][kaggle]
+[<img align="left" alt="sukanyakaggle" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" />][kaggle]
 
 
 
