@@ -9,7 +9,7 @@
           <h3 class="card-title">A little about me 🤭!</h3>
             <p class="card-text"> 
               
- 🌱 I am currently working as a `Data Science (AI/ML) Intern` at `Genpact`.
+ 🌱 I am currently working as a `Data Scientist` at `Genpact`.
               
  🔭 I recently worked as a `Summer Research Intern` at `IIIT Hyderabad`'s `LTRC (Language Technologies Research Centre)`.
               
