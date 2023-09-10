@@ -21,7 +21,7 @@
               
  📈 Recent Achievement: Officially `Kaggle Kernels Expert`!!! 😎
               
- 🤣 Fun fact: `ChatGPT` does not know `programming`! </p>
+ 🤣 Fun fact: `ChatGPT` is dumber than your neighbor's 🐈! </p>
       
     
   </div>
