@@ -52,6 +52,7 @@
 ## As a `technical-writer` by passion, I write a lot of tech blogs on `Data Science` and `ML/AI`. Read my latest published blogs!👩🏼‍💻
 
 <!-- BLOG-POST-LIST:START -->
+- 📌[Ask your Documents with Langchain and Deep Lake!](https://www.analyticsvidhya.com/blog/2023/09/documents-with-langchain-and-deep-lake/#h-introduction)
 - 📌[Top 15 Important Machine Learning Interview Questions - Winning🥉 Article of Blogathon'25](https://www.analyticsvidhya.com/blog/2022/11/top-15-important-machine-learning-interview-questions/)
 - 📌[My Experience Interviewing with Google!](https://medium.com/p/cd41f120f0fd)
 - 📌[Top 15 Important Data Science Interview Questions](https://www.analyticsvidhya.com/blog/2022/06/top-15-important-data-science-interview-questions/)
