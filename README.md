@@ -11,7 +11,7 @@
               
  🌱 I am currently working as a `Data Scientist` within `Genpact`'s `Data Science and Insights (DSI)` team.
               
- 🔭 I recently worked as a `Summer Research Intern` at `IIIT Hyderabad`'s `LTRC (Language Technologies Research Centre)`.
+ 🔭 In 2022, I had a great time working as a `Summer Research Intern` at `IIIT Hyderabad`'s `LTRC (Language Technologies Research Centre)`.
               
  👯  I’m looking to collaborate on developing awesome stuffs with `Machine/Deep Learning`, `REST APIs`, and `Web Development`. 
               
