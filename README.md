@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, Geeks!👀 I'm  Sukanya.😁 </h1><a target="_blank">
+<h1 align="center">Hi there!👀 I'm  Sukanya.😁 </h1><a target="_blank">
 
 <html>
   <div class="container">
@@ -13,13 +13,13 @@
               
  🔭 In 2022, I had a great time working as a `Summer Research Intern` at `IIIT Hyderabad`'s `LTRC (Language Technologies Research Centre)`.
               
- 👯  I’m looking to collaborate on developing awesome stuffs with `Machine/Deep Learning`, `REST APIs`, and `Web Development`. 
+ 👯  I’m looking to collaborate on developing awesome stuffs with `Deep Learning (NLP/Vision)`, `Generative AI/ RAG`, `RLHF` , `Finetuning` and `LLMOps`. 
               
- 💡 Ask me about `Python`, `Java`, `Data Science`, `Machine/Deep Learning` and `REST API`s!
+ 💡 Ask me about `Python`, `Computer Vision`, `Natural Language Processing`, `Cloud Computing` and `REST API`s!
               
  🙎🏼‍♀ Pronouns: `She/Her`
               
- 📈 Recent Achievement: Officially `Kaggle Kernels Expert`!!! 😎
+ 📈 Recent Achievement: Officially `Kaggle Kernels Expert` & `Lead AI Instructor` at `Topmate` (Top 1% in Data)!!! 😎
               
  🤣 Fun fact: `ChatGPT` is dumber than your neighbor's 🐈! </p>
       
@@ -52,6 +52,8 @@
 ## As a `technical-writer` by passion, I write a lot of tech blogs on `Data Science` and `ML/AI`. Read my latest published blogs!👩🏼‍💻
 
 <!-- BLOG-POST-LIST:START -->
+📌[PII Detection and Masking in RAG Pipelines](https://www.analyticsvidhya.com/blog/2024/03/pii-detection-and-masking-in-rag-pipelines/)
+📌[RAG Powered Document QnA & Semantic Caching with Gemini Pro](https://www.analyticsvidhya.com/blog/2024/03/rag-powered-document-qna-semantic-caching-with-gemini-pro/)
 - 📌[Ask your Documents with Langchain and Deep Lake!](https://www.analyticsvidhya.com/blog/2023/09/documents-with-langchain-and-deep-lake/#h-introduction)
 - 📌[Top 15 Important Machine Learning Interview Questions - Winning🥉 Article of Blogathon'25](https://www.analyticsvidhya.com/blog/2022/11/top-15-important-machine-learning-interview-questions/)
 - 📌[My Experience Interviewing with Google!](https://medium.com/p/cd41f120f0fd)
