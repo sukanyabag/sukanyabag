@@ -9,7 +9,7 @@
           <h3 class="card-title">A little about me 🤭!</h3>
             <p class="card-text"> 
               
- 🌱 I am currently working as a `Data Scientist` within `Genpact`'s `Data Science and Insights (DSI)` team.
+ 🌱 I am currently working as a `Data Scientist` as part of `Genpact`'s amazing `AI/ML Practice` team.
               
  🔭 In 2022, I had a great time working as a `Summer Research Intern` at `IIIT Hyderabad`'s `LTRC (Language Technologies Research Centre)`.
               
