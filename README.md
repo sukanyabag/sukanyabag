@@ -32,7 +32,7 @@
 <a href="https://github.com/sukanyabag"><img width="35%" align="right" alt="sukanyabag" src="https://github-profile-trophy.vercel.app/?username=sukanyabag&theme=juicyfresh&no-frame=true&no-bg=true&title=Commit&row=1&column=1" /></a>
 ---
 
-I guide students and professionals through my [Topmate.io](https://topmate.io/sukannya/) and guide them on their data science journey to transition into a successful and industry ready Data Scientist. Currently I am amongst the top/lead AI instructors at Topmate (Awarded `Top 1% in Data` & `Standout 2023` with 90+ bookings and 5⭐ rating!)
+I guide students and professionals through my [Topmate.io](https://topmate.io/sukannya/) on their data science journey to transition into a successful and industry ready Data Scientist. Currently I am amongst the top/lead AI instructors at Topmate (Awarded `Top 1% in Data` & `Standout 2023` with 90+ bookings and 5⭐ rating!)
 
 
 [![Sukanya's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sukanyabag?cardType=octocat&theme=monokai)](https://git.io/awesome-stats-card)
