@@ -55,8 +55,8 @@ I guide students and professionals through my [Topmate.io](https://topmate.io/su
 ## As a `technical-writer` by passion, I write a lot of tech blogs on `Data Science` and `ML/AI`. Read my latest published blogs!👩🏼‍💻
 
 <!-- BLOG-POST-LIST:START -->
--📌[PII Detection and Masking in RAG Pipelines](https://www.analyticsvidhya.com/blog/2024/03/pii-detection-and-masking-in-rag-pipelines/)
--📌[RAG Powered Document QnA & Semantic Caching with Gemini Pro](https://www.analyticsvidhya.com/blog/2024/03/rag-powered-document-qna-semantic-caching-with-gemini-pro/)
+- 📌[PII Detection and Masking in RAG Pipelines](https://www.analyticsvidhya.com/blog/2024/03/pii-detection-and-masking-in-rag-pipelines/)
+- 📌[RAG Powered Document QnA & Semantic Caching with Gemini Pro](https://www.analyticsvidhya.com/blog/2024/03/rag-powered-document-qna-semantic-caching-with-gemini-pro/)
 - 📌[Ask your Documents with Langchain and Deep Lake!](https://www.analyticsvidhya.com/blog/2023/09/documents-with-langchain-and-deep-lake/#h-introduction)
 - 📌[Top 15 Important Machine Learning Interview Questions - Winning🥉 Article of Blogathon'25](https://www.analyticsvidhya.com/blog/2022/11/top-15-important-machine-learning-interview-questions/)
 - 📌[My Experience Interviewing with Google!](https://medium.com/p/cd41f120f0fd)
