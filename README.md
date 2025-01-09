@@ -9,19 +9,17 @@
           <h3 class="card-title">A little about me 🤭!</h3>
             <p class="card-text"> 
               
- 🌱 I am currently working as a `Data Scientist` as part of `Genpact`'s amazing `AI/ML Practice` team.
-              
+ 🌱 I am working as Data Scientist at Genpact's AI Practice Team while delivering cutting-edge solutions for leading clients across Healthcare, Finance, Insurance, Retail and Manufacturing. Primarily a member of the Computer Vision team, my work also expands on leveraging NLP, RL and Generative AI to address real-world challenges and drive innovation in this space. I have filed my first patent on Multimodal Retrieval-Augmented Generation (RAG) and published two papers on MuRAG and Text-to-Speech innovations at ICECET 2024 (Sydney) and the 11th ICBAI (IIM Bangalore) in 2024. Currently, I am focusing on R&D for advancements in Speech, Vision, and Language technologies with plans to patent our innovations and publish more of our findings at leading AI conferences.
+ 
  🔭 In 2022, I had a great time working as a `Summer Research Intern` at `IIIT Hyderabad`'s `LTRC (Language Technologies Research Centre)`.
               
  👯  I’m looking to collaborate on developing awesome stuffs with `Deep Learning (NLP/Vision)`, `Generative AI/ RAG`, `RLHF` , `Finetuning` and `LLMOps`. 
-              
- 💡 Ask me about `Python`, `Computer Vision`, `Natural Language Processing`, `Cloud Computing` and `REST API`s!
-              
+                            
  🙎🏼‍♀ Pronouns: `She/Her`
               
  📈 Recent Achievement: Officially `Kaggle Kernels Expert` & `Lead AI Instructor` at `Topmate` (Top 1% in Data)!!! 😎
               
- 🤣 Fun fact: `ChatGPT` is dumber than your neighbor's 🐈! </p>
+ 🤣 Fun fact: There is no RL in RLHF, ifykyk! </p>
       
     
   </div>
@@ -55,7 +53,7 @@ I guide students and professionals through my [Topmate.io](https://topmate.io/su
 ## As a `technical-writer` by passion, I write a lot of tech blogs on `Data Science` and `ML/AI`. Read my latest published blogs!👩🏼‍💻
 
 <!-- BLOG-POST-LIST:START -->
-- 📌[Building an Agentic RAG Application using LangChain, Tavily & GPT-4](https://www.analyticsvidhya.com/blog/2024/12/single-agent-rag-using-langchain-tavily-and-gpt-4/)
+- 📌[Building an Agentic RAG Application using LangChain, Tavily & GPT4T - Ranked 1st Article of Blogathon'51!🥇](https://www.analyticsvidhya.com/blog/2024/12/single-agent-rag-using-langchain-tavily-and-gpt-4/)
 - 📌[PII Detection and Masking in RAG Pipelines](https://www.analyticsvidhya.com/blog/2024/03/pii-detection-and-masking-in-rag-pipelines/)
 - 📌[RAG Powered Document QnA & Semantic Caching with Gemini Pro](https://www.analyticsvidhya.com/blog/2024/03/rag-powered-document-qna-semantic-caching-with-gemini-pro/)
 - 📌[Ask your Documents with Langchain and Deep Lake!](https://www.analyticsvidhya.com/blog/2023/09/documents-with-langchain-and-deep-lake/#h-introduction)
@@ -94,7 +92,7 @@ I guide students and professionals through my [Topmate.io](https://topmate.io/su
 [<img align="left" alt="sukanyabagfb" width="22px" src="https://iconape.com/wp-content/png_logo_vector/facebook-f-logo-2019.png" />][facebook]
 [<img align="left" alt="sukanyakaggle" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" />][kaggle]
 
-[instagram]: https://www.instagram.com/s.u.k.a.n.y.a.__/
+[instagram]: https://www.instagram.com/_whysosukanya/
 [linkedin]: https://www.linkedin.com/in/sukannya/
 [medium]: https://sukanyabag.medium.com/
 [facebook]: https://www.facebook.com/sukanya.bag.904/
