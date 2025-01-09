@@ -1,4 +1,4 @@
-<h1 align="center">Hi there!👀 I'm  Sukanya.😁 </h1><a target="_blank">
+<h1 align="center">Hi there!👀 </h1><a target="_blank">
 
 <html>
   <div class="container">
@@ -6,7 +6,7 @@
     <div class="col">
     </div>
     <div class="col">
-          <h3 class="card-title">A little about me 🤭!</h3>
+          <h3 class="card-title">Now that you are here...a little about me! 😮‍💨</h3>
             <p class="card-text"> 
               
  🌱 I am working as a `Data Scientist` at `Genpact's AI Practice Team` while delivering cutting-edge solutions for leading clients across `Healthcare, Finance, Insurance, Retail and Manufacturing`. Primarily a member of the `Computer Vision` team, my work also expands on leveraging `NLP`, `RL` and `Generative AI` to address real-world challenges and drive innovation in this space. I have filed my first patent on `Multimodal Retrieval-Augmented Generation (RAG)` and published two research papers on [Enhancing Image Retrieval in RAG Systems](https://ieeexplore.ieee.org/document/10698598) and `Text-to-Speech` innovations at `IEEE's ICECET 2024 (Sydney)` and the `DCAL's 11th ICBAI (IIM Bangalore)` in 2024, respectively. Currently, I am focusing on R&D for advancements in Speech, Vision, and Language technologies with plans to patent our innovations and publish more of our findings at future conferences!
