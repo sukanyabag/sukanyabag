@@ -32,7 +32,7 @@
 <a href="https://github.com/sukanyabag"><img width="35%" align="right" alt="sukanyabag" src="https://github-profile-trophy.vercel.app/?username=sukanyabag&theme=juicyfresh&no-frame=true&no-bg=true&title=Commit&row=1&column=1" /></a>
 ---
 
-I guide students and professionals through my [Topmate.io](https://topmate.io/sukannya/) on their data science journey to transition into a successful and industry ready Data Scientist. Currently I am amongst the top/lead AI instructors at Topmate (Awarded `Top 1% in Data` & `Standout 2023` with 90+ bookings and 5⭐ rating!)
+I guide students and professionals through my [Topmate.io](https://topmate.io/sukannya/) on their data science journey to transition into a successful and industry ready Data Scientist. Currently I am amongst the top/lead AI instructors at Topmate (Awarded `Top 1% in Data` & `Standout 2023` with 110+ bookings and 5⭐ rating!)
 
 
 [![Sukanya's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sukanyabag?cardType=octocat&theme=monokai)](https://git.io/awesome-stats-card)
@@ -55,13 +55,14 @@ I guide students and professionals through my [Topmate.io](https://topmate.io/su
 ## As a `technical-writer` by passion, I write a lot of tech blogs on `Data Science` and `ML/AI`. Read my latest published blogs!👩🏼‍💻
 
 <!-- BLOG-POST-LIST:START -->
+- 📌[Building an Agentic RAG Application using LangChain, Tavily & GPT-4](https://www.analyticsvidhya.com/blog/2024/12/single-agent-rag-using-langchain-tavily-and-gpt-4/)
 - 📌[PII Detection and Masking in RAG Pipelines](https://www.analyticsvidhya.com/blog/2024/03/pii-detection-and-masking-in-rag-pipelines/)
 - 📌[RAG Powered Document QnA & Semantic Caching with Gemini Pro](https://www.analyticsvidhya.com/blog/2024/03/rag-powered-document-qna-semantic-caching-with-gemini-pro/)
 - 📌[Ask your Documents with Langchain and Deep Lake!](https://www.analyticsvidhya.com/blog/2023/09/documents-with-langchain-and-deep-lake/#h-introduction)
 - 📌[Top 15 Important Machine Learning Interview Questions - Winning🥉 Article of Blogathon'25](https://www.analyticsvidhya.com/blog/2022/11/top-15-important-machine-learning-interview-questions/)
 - 📌[My Experience Interviewing with Google!](https://medium.com/p/cd41f120f0fd)
-- 📌[Top 15 Important Data Science Interview Questions](https://www.analyticsvidhya.com/blog/2022/06/top-15-important-data-science-interview-questions/)
-- 📌[A Comprehensive Guide to Time Series Analysis and Forecasting - Amongst top 10 Articles at Blogathon-20](https://www.analyticsvidhya.com/blog/2022/05/a-comprehensive-guide-to-time-series-analysis-and-forecasting/) 
+- [Top 15 Important Data Science Interview Questions](https://www.analyticsvidhya.com/blog/2022/06/top-15-important-data-science-interview-questions/)
+- [A Comprehensive Guide to Time Series Analysis and Forecasting - Amongst top 10 Articles at Blogathon-20](https://www.analyticsvidhya.com/blog/2022/05/a-comprehensive-guide-to-time-series-analysis-and-forecasting/) 
 - [Demystifying DCNNs — the AlexNet](https://medium.com/mlearning-ai/demystifying-dcnns-the-alexnet-6081eccb8f57)
 - [Out of Bag (OOB) Evaluation in Random Forests](https://python.plainenglish.io/out-of-bag-oob-evaluation-in-random-forests-9da315b9a1d1)
 - [Hands-On Named Entity Recognition with SpaCy](https://www.analyticsvidhya.com/blog/2022/03/hands-on-named-entity-recognition-with-spacy/)
