@@ -50,8 +50,4 @@ Honoured to be featured in Topmate's Top 25 in '25 for Applied AI & Automation! 
 
 ---
 
-## Connect
-
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg)](https://www.instagram.com/_whysosukanya/) [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg)](https://www.linkedin.com/in/sukannya/) [![Medium](https://seeklogo.com/images/M/medium-logo-F0ACFCCD58-seeklogo.com.png)](https://sukanyabag.medium.com/) [![Facebook](https://iconape.com/wp-content/png_logo_vector/facebook-f-logo-2019.png)](https://www.facebook.com/sukanya.bag.904/) [![Kaggle](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png)](https://www.kaggle.com/sukanyabag)
-
 **Mentoring:** [Book 1:1 sessions on Topmate.io](https://topmate.io/sukannya/)
