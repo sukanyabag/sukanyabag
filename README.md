@@ -1,6 +1,6 @@
 <h1 align="center">Sukanya Bag</h1>
 
-Sr. AI Engineer - AI Practice & Innovation Labs @ Genpact | 4x US Patent Holder | Lead AI Educator @ Topmate.io | Applied AI / GenAI Research
+Lead Applied AI Engineer - Axtria, Agentic AI CoE | 4x US Patent Holder | Top AI Instructor @ Topmate.io | Applied AI Research
 
 Honoured to be featured in Topmate's Top 25 in '25 for Applied AI & Automation! 🚀 [Awards](https://awards.topmate.io/ai-ml-2)
 
@@ -8,7 +8,7 @@ Honoured to be featured in Topmate's Top 25 in '25 for Applied AI & Automation! 
 
 ## Current Role
 
-**Sr. AI Engineer** at Genpact's AI Practice & Innovation Labs, building Generative, Multimodal, and Agentic AI systems for Healthcare, Finance, Manufacturing, and Retail.
+**Lead Applied AI Engineer** at Axtria's Agentic AI CoE, building scalable, enterprise-grade agentic intelligence for Life Sciences and Pharma.
 
 **Core Expertise:**
 - Domain-specific reasoning models in Computer Vision, NLP, Speech, Multimodal AI, Deep RL, Agentic AI, and Generative AI
@@ -26,6 +26,8 @@ Honoured to be featured in Topmate's Top 25 in '25 for Applied AI & Automation! 
 ---
 
 ## Featured Work
+
+Read my latest articles / deep dives on Agentic AI, Inference Optimization, AgentOps, Observability, Applied Generative AI on my blog, [**The AI Brief**](https://ai-digest-phi.vercel.app/blog) .
 
 <!-- BLOG-POST-LIST:START -->
 - 📌 [Building an Agentic RAG Application using LangChain, Tavily & GPT4T](https://www.analyticsvidhya.com/blog/2024/12/single-agent-rag-using-langchain-tavily-and-gpt-4/) *(Ranked #1 Blogathon'51)*
