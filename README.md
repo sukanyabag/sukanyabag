@@ -1,4 +1,4 @@
-<h1 align="center">Sukanya Bag</h1>
+<h1 align="center">About Me</h1>
 
 Lead Applied AI Engineer - Axtria, Agentic AI CoE | 4x US Patent Holder | Top AI Instructor @ Topmate.io | Applied AI Research
 
