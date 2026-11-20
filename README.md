@@ -15,13 +15,13 @@ Honoured to be featured in Topmate's Top 25 in '25 for Applied AI & Automation! 
 - Production-grade AI pipelines with MLOps, AIOps, AgentOps, and LLMOps on AWS, Azure, GCP
 - Research-to-production deployments focused on reliability, explainability, and safety
 
-**Research & Patents (4x US Patents Filed):**
-- Localization-based Retrieval Policy RAG (10x lower cost, 2x faster Vision Language Q&A)
+**Research & Patents (4x US Patents Filed, 1 Published at JustiaPatents):**
+- [Localization-based Retrieval Policy RAG (10x lower cost, 2x faster Vision Language Q&A)](https://patents.justia.com/patent/20260154332)
 - Multimodal Vision-Guided Medical Reasoning 7B Model for MedVQA, Temporal & Longitudinal Pathology Diagnosis, Medical Report Generation, Drug-Drug Interaction Analysis 
 - Multi-Tool Agentic Speech/Audio Intelligence (ASR, Diarization, MCP, feedback loops)
 - GRPO Optimized Chain Of Thought Reasoning + Memory-based RL Framework for improving tool-using Agentic AI Systems with SLMs
 
-**Publications:** 4 papers in IEEE conferences and ICBAI on enhanced RAG, audio-to-action agents, medical vqa and reasoning model, knowledge graph recommendation engines, agentic video rag, and GRPO reasoning agentic frameworks.
+**Publications:** 4+ papers in IEEE conferences and ICBAI on enhanced RAG, audio-to-action agents, medical vqa and reasoning model, knowledge graph recommendation engines, agentic video rag, and GRPO reasoning agentic frameworks.
 
 ---
 
